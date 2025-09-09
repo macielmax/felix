@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    border: 0;
+
+
+}
+
+.card_main {
+    margin: 50px;
+    border: 2px solid purple;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    padding-left: 340px;
+    padding-right: 340px;
+}
+
+.organiza {
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 50px;
+
+    border: 2px solid purple;
+
+    padding-top: 25px;
+    padding-left: 180opx;
+    padding-right: 180px;
+    padding-bottom: 25px;
+
+}
+
+.organiza1 {
+    display: flex;
+    flex-direction: row;
+
+    margin: 25px;
+}
+
+.organiza2 {
+    display: flex;
+    flex-direction: row;
+
+    margin: 25px;
+}
+
+.organiza3 {
+    display: flex;
+    flex-direction: row;
+
+    margin: 25px;
+}
